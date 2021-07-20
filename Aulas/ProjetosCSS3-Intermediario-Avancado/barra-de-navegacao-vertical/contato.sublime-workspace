@@ -164,33 +164,12 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css/barra-de-navegacao-vertical.css",
-			"settings":
-			{
-				"buffer_size": 522,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "home.html",
 			"settings":
 			{
 				"buffer_size": 580,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>Criando Barra de navegação Vertical</title>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/barra-de-navegacao-vertical.css\">\n\t</head>\n\t<body id=\"sobre\">\n\t\t<ul>\n\t\t\t<li class=\"home\"><a href=\"\">Home</a> </li>\n\t\t\t<li class=\"sobre\"><a href=\"\">Sobre</a> </li>\n\t\t\t<li class=\"servicos\"><a href=\"\">Serviços</a> </li>\n\t\t\t<li class=\"noticias\"><a href=\"\">Notícias</a></li>\n\t\t\t<li class=\"contato\"><a href=\"\">Contato</a></li>\n\t\t</ul>\n\t</body>\n</html>\n",
-			"file": "sobre.html",
-			"file_size": 509,
-			"file_write_time": 132707688289144240,
-			"settings":
-			{
-				"buffer_size": 506,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -224,15 +203,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado",
-		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical",
-		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css",
-		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/imagens"
-	],
 	"file_history":
 	[
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical/contato.html",
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical/sobre.html",
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical/servicos.html",
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical/noticias.html",
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical/home.html",
+		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css/barra-de-navegacao-vertical.css",
 		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/barra-de-navegacao-vertical.html",
 		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css/mais-seletores.css",
 		"/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css/heranca-especifidade.css",
@@ -285,41 +263,13 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Pedro/Documents/ProjetosSublimeText3/Aulas/ProjetosCSS3-Intermediario-Avancado/css/barra-de-navegacao-vertical.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 522,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								505,
-								505
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "home.html",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 580,
@@ -329,8 +279,8 @@
 						"selection":
 						[
 							[
-								537,
-								537
+								0,
+								0
 							]
 						],
 						"settings":
@@ -343,34 +293,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "sobre.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 506,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								219,
-								219
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -450,7 +372,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 219.0,

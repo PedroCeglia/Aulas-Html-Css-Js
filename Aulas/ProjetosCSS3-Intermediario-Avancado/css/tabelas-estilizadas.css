@@ -1,0 +1,27 @@
+table{
+	width: 600px;
+	/* Colapse = junta ; Separete separa*/
+	border-collapse: separate;
+}
+th, td{
+	padding: 7px;
+}
+th{
+	/* Transforma as letras em maiusculo*/
+	text-transform: uppercase;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #111;
+	text-align: left;
+	font-size: 90%;
+	/* Espaçamento nas letras*/
+	letter-spacing: 0.1em;
+}
+tr.alternando{
+	background-color: #efefef;
+}
+.numero{
+	text-align: right;
+}
+tr.f:hover{
+	background-color: #c3e6e5;
+}
